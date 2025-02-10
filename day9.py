@@ -11,9 +11,12 @@ logo = r'''
                        .-------------.
                       /_______________\\
 '''
+
 bids = {}
+
 print(logo)
 print("Welcome to Silent Bidding!")
+
 bidding_in_progress = True
 
 while bidding_in_progress:
